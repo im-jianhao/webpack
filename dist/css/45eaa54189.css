@@ -1,0 +1,21 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  background-color: pink;
+}
+
+h1 {
+  font-size: 10px;
+  background-image: url(image/b5276b9eb2.png);
+  transform: translateX(-10px);
+  display: flex;
+}
+h2 {
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+}
+
+
+/*# sourceMappingURL=45eaa54189.css.map*/
